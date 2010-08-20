@@ -8,7 +8,7 @@ Passos:
 
 - **Plotter**
 
-  Procure uma vendedora e peça para fazer um **transfer de recorte no plotter**. Tem um setor da loja só para isso. É só levar esta imagem em formato Corel num pendrive (http://github.com/rubyonrio/camiseta-opensource/blob/master/ruby-on-rio.cdr). Escolha a cor vermelha e peça para recortar 3 logos numa folha A3 (o preço é por folha e custa R$ 9,70 cada)
+  Procure uma vendedora e peça para fazer um **transfer de recorte no plotter**. Tem um setor da loja só para isso. É só levar esta imagem em formato Corel num pendrive (http://github.com/rubyonrio/camiseta-opensource/blob/master/ruby-on-rio.cdr). Escolha a cor vermelha e peça para recortar 3 logos (largura do logo: 22cm) numa folha A3. O preço é por folha e custa R$ 9,70 cada.
 
 - **Malha**
 
