@@ -6,15 +6,15 @@ As camisetas podem ser feitas na Dimona (http://www.camisadimona.com.br/) na R. 
 
 Passos:
 
-1. **Plotter**
+- **Plotter**
 
   Procure uma vendedora e peça para fazer um **transfer de recorte no plotter**. Tem um setor da loja só para isso. É só levar esta imagem em formato Corel num pendrive (http://github.com/rubyonrio/camiseta-opensource/blob/master/ruby-on-rio.cdr). Escolha a cor vermelha e peça para recortar 3 logos numa folha A3 (o preço é por folha e custa R$ 9,70 cada)
 
-2. **Malha**
+- **Malha**
 
   Agora escolha a malha com a vendedora. O melhor custo benefício é marca própria deles (Dimona Classic) que custa R$ 5,10.
 
-3. **Prensa**
+- **Prensa**
 
   Com os logos e camisetas na mão é só levar no setor de prensagem para estampar a camiseta. Cada prensa custa R$ 1,00.
 
